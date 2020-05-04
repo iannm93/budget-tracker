@@ -5,15 +5,15 @@
 // static assets such ass html, css, js, images, etc; and another cache for
 // the dynamic data from requests to routes beginning with "/api".
 const FILES_TO_CACHE = [
-    "/",
-    "/index.html",
-    "/index.js",
-    "/db.js",
-    "/styles.css",
-    "/favicon.ico",
-    "/manifest.webmanifest",
-    "/icons/icon-192x192.png",
-    "/icons/icon-512x512.png",
+  "/",
+  "/index.html",
+  "/db.js",
+  "/index.js",
+  "/manifest.webmanifest",
+  "/favicon.ico",
+  "/styles.css",
+  "/icons/icon-192x192.png",
+  "/icons/icon-512x512.png",
   ];
   
   const CACHE_NAME = "static-cache-v2";
