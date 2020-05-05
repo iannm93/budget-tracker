@@ -79,4 +79,4 @@ function saveRecord(info) {
   // add your code here
 }
 // check to see if app is online
-window.addEventListener("online", checkDatabase);
+window.addEventListener("online", inspectDb);
