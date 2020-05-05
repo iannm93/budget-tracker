@@ -27,7 +27,7 @@ request.onsuccess = function ({ target }) {
   }
 };
 
-request.onerror = function (event) {
+request.onerror = event => {
   console.log(event.error);
   // function that logs an error if it occurs
 };
