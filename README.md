@@ -9,14 +9,13 @@
 * [Contact](#contact)
 
 ## General info
-This is a program I designed  using vanilla indexedDB/mongoose that allows a user to keep track of their budget/daily expenditures by storing their expenses/paychecks in a database. This application also has a visual representation of the user's spending habits through a rendered graph.
-
+This is a program designed using javascript that allows a user to keep track of their budget/daily expenditures by storing their expenses/paychecks in a database. This application shows the user a visual representation of their spending patterns via a rendered graph. 
 ## Screenshots
 ![program screenshot](PWA-budget-tracker.PNG)
 
 
 ## Setup
-This program runs in browser. If you want to download the PWA, you can download it from the top right hand corner of the webpage. This webpage has offline functionality.
+This program runs in browser. If you want to download the Progessive Web App (PWA), you can download it from the top right hand corner of the webpage. This webpage has offline functionality.
 
 ## Code Examples
 Show examples of usage:
